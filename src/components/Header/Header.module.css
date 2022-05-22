@@ -1,0 +1,22 @@
+.header {
+    text-align: center;
+    padding: 2rem 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, .2);
+}
+
+.header p {
+    width: 600px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.header p a {
+    font-weight: 500;
+    color: rgba(0, 0, 0, 1);
+    transition: 250ms ease-out;
+}
+
+.header p a:hover {
+    color: rgba(0, 0, 0, .8);
+}
